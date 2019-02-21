@@ -1,0 +1,5 @@
+﻿  SecurityAlarm.cpp
+  SecuritySystem.cpp
+c:\users\wesley\documents\github\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(40): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  SecuritySystem.vcxproj -> C:\Users\Wesley\Documents\GitHub\CIS108_Lab4_SecuritySystem\x64\Debug\SecuritySystem.exe
